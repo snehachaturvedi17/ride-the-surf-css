@@ -1,6 +1,6 @@
 # waveriders-surf-academy
 
-**Copyright © Prathamesh More**
+**Copyright © sneha chaturvedi
 
 ## Folder Structure
 
